@@ -1,40 +1,49 @@
-# Quasar App (frontendmuseu)
+🎨 Sistema Web com Vue.js e Quasar
 
-A Quasar Project
+Aplicação web desenvolvida utilizando Vue.js com Quasar Framework para construção de uma interface moderna e responsiva.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+O projeto utiliza o conceito de Single Page Application (SPA), permitindo navegação dinâmica entre páginas sem recarregamento completo da aplicação, proporcionando melhor experiência ao usuário.
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+🚀 Tecnologias Utilizadas
 
+Vue.js
 
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
+Quasar Framework
 
+JavaScript
 
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
+HTML5
 
+SCSS
 
-### Build the app for production
-```bash
-quasar build
-```
+Axios
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+Vue Router
+
+Node.js / NPM
+
+💻 Interface
+
+A interface foi construída utilizando os componentes do Quasar Framework, permitindo:
+
+Layout responsivo
+
+Componentes UI modernos
+
+Melhor experiência de navegação
+
+Estrutura visual organizada
+
+📌 Principais Funcionalidades
+
+Interface web responsiva
+
+Estrutura baseada em componentes reutilizáveis
+
+Navegação entre páginas utilizando Vue Router
+
+Organização da aplicação em layouts e páginas
+
+Integração preparada para consumo de APIs
+
+Estrutura escalável para aplicações frontend
